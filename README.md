@@ -15,6 +15,6 @@ composicion:Construye objetos complejos combinando objetos más simples en lugar
 modularidad:Divide el software en módulos independientes y manejables, cada uno con una función específica.
 
 Integrantes
-jair andres bernal garcia
+jair andres bernal garcia,
 andres david perez santiago
 
