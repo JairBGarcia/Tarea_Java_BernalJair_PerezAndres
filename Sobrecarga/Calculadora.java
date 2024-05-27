@@ -20,5 +20,9 @@ public class Calculadora {
     public String concatenar(String a, String b) {
         return a + b;
     }
-}
 
+    public static void main(String[] args) {
+        Calculadora calculadora = new Calculadora(); 
+        System.out.println("La suma es: " + calculadora.sumar(5, 3)); 
+    }
+}
