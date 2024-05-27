@@ -18,7 +18,7 @@ public class JavaApplication4 {
         this.marca = marca;
         this.diametro = diametro;
         this.color = color;
-        this.inflado = false; // Al inicio el balón está desinflado
+        this.inflado = false; 
     }
 
     public String getMarca() {
